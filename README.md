@@ -1,5 +1,3 @@
-# tutorial
-
 How to host your HTML Website using Github Pages
 
 ## For Mobile Devices
